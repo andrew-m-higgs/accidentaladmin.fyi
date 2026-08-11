@@ -6,7 +6,6 @@ tags = ["linux", "samba", "tutorial", "networking"]
 categories = ["Guides"]
 +++
 
-# A Beginner's Guide to Running a Samba Server on Linux
 
 Sharing files between different operating systems can sometimes feel like a hassle. Fortunately, **Samba** makes it easy to share files and printers across a network, allowing Windows, macOS, and Linux machines to communicate seamlessly.
 
