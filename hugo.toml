@@ -1,0 +1,14 @@
+baseURL = "https://accidentaladmin.fyi/"
+languageCode = "en-us"
+title = "The Accidental Admin"
+theme = "hugo-theme-flat"
+
+[params]
+  [params.author]
+    name = "The Accidental Admin Team"
+    email = "andrew.m.higgs@gmail.com"
+
+  description = "Linux server admin tips for small businesses with no prior knowledge."
+
+  themeMode = "auto"
+  themeToggle = true
