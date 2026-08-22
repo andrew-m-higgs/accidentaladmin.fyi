@@ -1,9 +1,11 @@
 +++
-title = "A Beginner's Guide to Running a Samba Server on Linux"
+title = "How to Set Up a Samba File Share on Linux: A Step-by-Step Guide"
 date = 2026-08-11T22:15:00+02:00
 draft = false
 tags = ["linux", "samba", "tutorial", "networking"]
 categories = ["Guides"]
+summary = "A beginner-friendly tutorial on configuring Samba on Ubuntu/Debian Linux. This guide covers installation, directory setup, configuration, user authentication, and how to connect from Windows, macOS, and other Linux machines."
+keywords = ["samba setup", "linux file sharing", "smb share ubuntu", "cross-platform file server"]
 +++
 
 
